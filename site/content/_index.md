@@ -11,15 +11,15 @@ blurb:
     hospitality, and being partner to assist with their meals.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: "Webstaurant is a blog that discuss about restaurant environment. If you
+    just start restaurant / f&b business in general, and you're not sure what
+    you need to prepare to get your place populated, then this is the sources
+    you need! We write things that work in our restaurant, and you can implement
+    them too! "
 products: []
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: We write things based on our experience. So what we suggest is actually a
+    solution that work in our restaurant, and that might work in your restaurant
+    too!
 ---
